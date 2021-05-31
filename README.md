@@ -1,6 +1,6 @@
 <h1 align="center">Small JavaScript Projects</h1>
 
-## To Do List
+## 1: To Do List
 
 Offers the ability to organize all the tasks within a list.
 
